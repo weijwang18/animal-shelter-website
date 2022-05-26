@@ -1,7 +1,25 @@
 img {
   width: 300px;
+  padding: 15px;
+  margin-top: 10px;
 }
 
 .column {
   float: left;
+}
+
+.column p {
+  color: red;
+}
+
+.column li {
+  color: blue;
+}
+
+h1 {
+  text-align: center;
+}
+
+.title h1 {
+  font-style: italic;
 }
