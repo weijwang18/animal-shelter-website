@@ -2,18 +2,13 @@ img {
   width: 300px;
   padding: 15px;
   margin-top: 10px;
+  margin-right: 19px;
+  padding: 15px;
+  background-color: yellow;
 }
 
 .column {
   float: left;
-}
-
-.column p {
-  color: red;
-}
-
-.column li {
-  color: blue;
 }
 
 h1 {
@@ -22,4 +17,16 @@ h1 {
 
 .title h1 {
   font-style: italic;
+}
+
+#blue {
+  color: blue;
+}
+
+#red {
+  color: red;
+}
+
+#orange {
+  color: orange;
 }
